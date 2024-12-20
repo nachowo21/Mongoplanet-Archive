@@ -9,7 +9,7 @@ El objetivo principal de este proyecto es simplificar la lectura de los datos de
 
 ## Características
 
-- Transformaacion de datos: convertimos los datos del catalogo en un formato que puede ser almacenado y gestionado con Mongodb
+- Transformación de datos: convertimos los datos del catalogo en un formato que puede ser almacenado y gestionado con Mongodb
 - Automatización: Usamos python para realizar el script de poblacion de datos con ayuda de pymongo
 - Visualización de datos: Hicimos histogramas para los metodos de descubrimiento, para así entender la información que nos entrega esta base de datos
 
