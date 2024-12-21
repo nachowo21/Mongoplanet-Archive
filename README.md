@@ -5,7 +5,7 @@ MongoPlanet Archive es un proyecto que utiliza los datos del [Exoplanet Archive]
 
 ## Objetivo
 
-El objetivo principal de este proyecto es simplificar la lectura de los datos del catálogo exoplanet archive, para facilitar su exploración y analisis a través de mongodb, y así poder realizar visualizaciones a través de histogramas para interpretar la informacion que nos entrega dicho catálogo.
+Simplificar la lectura de los datos del Exoplanet Archive, facilitar su exploración y análisis a través de MongoDB, y generar visualizaciones como histogramas para interpretar la información proporcionada por este catálogo. hacer que se agrupe por grupo cada sistema estelares 
 
 ## Características
 
