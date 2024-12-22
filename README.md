@@ -9,7 +9,9 @@ Simplificar la lectura de los datos del Exoplanet Archive, facilitar su explorac
 
 ## Diagrama
 
-![Diagrama ER de base de datos (pata de gallo) (2)](https://github.com/user-attachments/assets/9f6d51da-3336-405c-8de7-c8e31cbb5a69)
+![Diagrama ER de base de datos (pata de gallo)(6)](https://github.com/user-attachments/assets/d3299766-f015-4d05-8151-bfda7a042c2d)
+
+
 
 ## Características
 
