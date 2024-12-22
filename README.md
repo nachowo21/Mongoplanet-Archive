@@ -7,6 +7,10 @@ MongoPlanet Archive es un proyecto que utiliza los datos del [Exoplanet Archive]
 
 Simplificar la lectura de los datos del Exoplanet Archive, facilitar su exploración y análisis a través de MongoDB, y generar visualizaciones como histogramas para interpretar la información proporcionada por este catálogo. hacer que se agrupe por grupo cada sistema estelares 
 
+## Diagrama
+
+![Diagrama ER de base de datos (pata de gallo) (2)](https://github.com/user-attachments/assets/9f6d51da-3336-405c-8de7-c8e31cbb5a69)
+
 ## Características
 
 - Transformación de datos: convertimos los datos del catalogo en un formato que puede ser almacenado y gestionado con Mongodb
@@ -17,6 +21,7 @@ Simplificar la lectura de los datos del Exoplanet Archive, facilitar su explorac
 
 - Python 3.7 o superior
 - MongoDB (local o en un servidor)
+
 - las siguientes bibliotecas de python:
   - pymongo version 2.0
   - pandas version 2.2.3
