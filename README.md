@@ -25,7 +25,9 @@ Simplificar la lectura de los datos del Exoplanet Archive, facilitar su explorac
 - MongoDB (local o en un servidor)
 
 - las siguientes bibliotecas de python:
-  - pymongo version 2.0
-  - pandas version 2.2.3
-  - matplotlib version 3.9.2
+  - pymongo versión 2.0
+  - pandas versión 2.2.3
+  - matplotlib versión 3.9.2
+  - numpy versión 1.26.4
+  - astropy versión 6.1.3
 
