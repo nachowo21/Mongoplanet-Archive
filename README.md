@@ -1,4 +1,17 @@
 # MongoPlanet Archive
+
+## Asignatura: Estructura y Base de Datos
+## Profesor: Miguel Cárcamo
+
+### Integrantes:
+- Sebastián López
+
+- Thomas Salazar
+
+- Ignacio Solís
+
+- Marcelo Andrade
+
 ## Introduccion
 
 MongoPlanet Archive es un proyecto que utiliza los datos del [Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu) para crear una base de datos no relacional utilizando MongoDB. Esto se debe a que los datos descargados de la plataforma oficial son extensos y complejos de interpretar en su formato original. Por lo tanto, transformamos esta información en un formato más accesible y estructurado, empleando bases de datos del tipo documento para facilitar su comprensión y análisis.
